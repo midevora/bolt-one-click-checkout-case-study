@@ -1,55 +1,64 @@
-# Bolt – One-Click Checkout Experience
+# 💼 Bolt – One-Click Checkout Experience
 
-![Bolt Banner](https://www.bolt.com/_next/image?url=%2Fassets%2Fbolt-logo.png&w=384&q=75)
-
-**Website:** [https://www.bolt.com](https://www.bolt.com)  
-**Industry:** E-commerce, FinTech  
-**Region:** Global  
-**Tech Stack:** React.js, Node.js, GraphQL, AWS, Stripe, Firebase  
+[![Built By DevoraOne](https://img.shields.io/badge/Built%20By-DevoraOne-blueviolet?style=flat-square)](https://devraone.com)
+[![Industry-Fintech](https://img.shields.io/badge/Industry-Fintech-blue?style=flat-square)](https://bolt.com)
+[![Status-Delivered](https://img.shields.io/badge/Status-Delivered-brightgreen?style=flat-square)]
 
 ---
 
-## 🚀 Project Overview
+## 🚀 TL;DR
 
-Bolt is revolutionizing the checkout experience for e-commerce stores, enabling one-click checkouts that are fast, secure, and frictionless. Our team collaborated on implementing core features that optimize the user journey while ensuring top-tier performance and security across platforms.
-
----
-
-## 🧠 What We Did
-
-- Integrated advanced **checkout flows** optimized for mobile and desktop
-- Streamlined **payment and authentication systems**
-- Developed secure APIs for payment gateway integration
-- Focused on **conversion rate optimization (CRO)** and UX refinement
-- Collaborated with Bolt’s product teams to roll out **real-time fraud detection** features
+- **Bolt enables merchants to offer frictionless one-click checkout experiences.**
+- Integrated powerful features for faster payments and improved conversion.
+- Optimized for mobile and desktop with real-time fraud detection integration.
 
 ---
 
-## 📈 Highlights
+## 🧠 About the Project
 
-- Enhanced page performance for <300ms response time on key routes
-- Achieved a +20% increase in checkout conversion rates post-deployment
-- Deployed with robust CI/CD pipelines via GitHub Actions & AWS
+Bolt is a leading checkout and shopper network platform that enhances e-commerce checkout conversion without replacing an existing tech stack. As part of DevoraOne’s contribution, we focused on optimizing payment flows, securing APIs, and ramping performance for higher conversions.
 
 ---
 
-## 🧩 Tech Focus
+## 🧩 Our Role
 
-- **Frontend:** React.js, Redux, TailwindCSS
-- **Backend:** Node.js, Express.js, GraphQL
-- **Infrastructure:** AWS Lambda, CloudFront, Docker
-- **Other Tools:** Stripe, Firebase Auth, GitHub Actions
+- Integrated Bolt's advanced **checkout capabilities** within merchants’ storefronts  
+- Implemented **secure payment flows**, identity management, and authentication  
+- Optimized UX for speed and usability across devices  
+- Collaborated on **real-time fraud protection** and conversion analytics pipelines
+
+---
+
+## ⚙️ Tech Stack
+
+| Layer       | Technology                         |
+|-------------|------------------------------------|
+| Frontend    | React.js, Redux, TailwindCSS       |
+| Backend     | Node.js, Express, GraphQL          |
+| Infrastructure | AWS Lambda, CloudFront, Docker  |
+| Integrations | Stripe, OAuth2, Firebase Auth     |
+| CI/CD      | GitHub Actions, Kubernetes         |
+
+---
+
+## 🌟 Highlights
+
+- Sub-300ms checkout responses
+- +20% lift in conversion rates post-launch (for merchants)
+- Seamless deployment pipelines with robust observability
 
 ---
 
 ## 🔐 Security & Compliance
 
-- Implemented **PCI DSS compliant** checkout processes
-- Used encrypted tokenization for all payment-related data
-- Real-time fraud monitoring integration
+- Fully **PCI DSS compliant**
+- Tokenized payment handling
+- Support for **real-time fraud monitoring** integrations
 
 ---
 
-## 💬 Want Something Similar?
+## 💬 Want Checkout Like Bolt?
 
-Whether you're building a product-led SaaS platform or streamlining digital payments — we can help you build fast, secure, and user-first systems. [Let’s connect at DevraOne. Where Ideas Take Code](https://devraone.com).
+If you're building SaaS products, marketplace platforms, or custom merchant experiences—we'll help you make them fast, secure, and delightful.
+
+**[Let’s connect at DevraOne. Where Ideas Take Code](https://devraone.com)**
